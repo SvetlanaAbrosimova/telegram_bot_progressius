@@ -2,7 +2,7 @@
 
 # Telegram Bot using Telegraf, Node.js, MongoDB 
 
-This is a new Telegram Bot which enables to store user`s progress while practicing something. The user might learn how to draw 🎨, learn a foreign language 👩🏻‍🎓 or do sports🏋🏻.
+This is a new Telegram Bot which enables to store user's progress while practicing something. The user might learn how to draw 🎨, learn a foreign language 👩🏻‍🎓 or do sports🏋🏻.
 All user`s progress is stored in Database and then analysed.
 
 There are such commands as: 
